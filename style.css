@@ -1,0 +1,13 @@
+body{
+    background-color: paleturquoise;
+    text-align: center;
+}
+div{
+    width: 500px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 400px;
+    background-color: lavender;
+    border-radius: 20px;
+    padding: 15px;
+}
